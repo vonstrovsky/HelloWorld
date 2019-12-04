@@ -46,7 +46,7 @@ public class WindowMain {
 		 */
 		btnMsg = new JButton();
 		btnMsg.setActionCommand("BUTTON_MESSAGE");
-		btnMsg.setText("消息提示");
+		btnMsg.setText("娑堟伅鎻愮ず");
 		btnMsg.addActionListener(onButtonClick);
 
 		/**
